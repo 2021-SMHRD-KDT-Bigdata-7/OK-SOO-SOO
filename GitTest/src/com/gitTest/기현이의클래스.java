@@ -28,6 +28,15 @@ public class 기현이의클래스 {
 		System.out.println("오늘 날씨가 어떤가요 : ");
 		String umm = sc.next();
 		
+		System.out.println("형호는 수업을 듣나요?");
+		String ox = sc.next();
+		if(ox.equals("네")) {
+			System.out.println("거짓입니다");
+		}else {
+			System.out.println("안하고 있어요");
+		}
+		
+		
 		
 	}
 
