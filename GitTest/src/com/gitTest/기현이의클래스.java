@@ -25,6 +25,9 @@ public class 기현이의클래스 {
 		System.out.println("기분도 입력하세요 : ");
 		String temp = sc.next();
 		
+		System.out.println("오늘 날씨가 어떤가요 : ");
+		String umm = sc.next();
+		
 		
 	}
 
